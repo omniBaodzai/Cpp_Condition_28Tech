@@ -13,12 +13,12 @@ int main()
 
     if (n % 2 == 0)
     {
-        cout << "Event" << endl;
+        cout << "Even" << endl;
     }
 
     if (n % 2 != 0)
     {
-        cout << "Old" << endl;
+        cout << "Odd" << endl;
     }
 
     return 0;
