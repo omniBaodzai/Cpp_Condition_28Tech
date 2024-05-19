@@ -20,12 +20,12 @@ int main()
         }
         else
         {
-            cout << "NO" << endl;
+            cout << "NO1" << endl;
         }
     }
     else
     {
-        cout << "NO" << endl;
+        cout << "NO2" << endl;
     }
 
     return 0;
