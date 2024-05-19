@@ -10,7 +10,7 @@ int main()
 {
     int n; cin >> n;
 
-    switch(3)
+    switch(n)
     {
         case 1:
             cout << "Huynh Le Bao" << endl;
