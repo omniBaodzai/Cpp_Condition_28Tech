@@ -13,7 +13,7 @@ int main()
     c1 += 32;  // c = 68 + 32 = 100 (d)
 
     cout << c1 << endl; // d
-    // Nếu bạn không in ra dòng 12, 14 mà in ra dòng 15 thì kq là: 100 chứ không phải kí tự d
+    // Nếu bạn không in ra dòng 13, 15 mà in ra dòng 17 thì kq là: 100 chứ không phải kí tự d
     //cout << c1 + 32 << endl; 
 
     //Chuyển đổi in thường thành in hoa
