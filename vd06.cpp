@@ -1,5 +1,5 @@
 /*
-Kiểm tra n là số chẵn nếu đúng in CHAN và 28tech, sai in LE và 28tech.com.vn
+Kiểm tra n là số chẵn nếu đúng in ra "CHAN" và "28tech", sai in ra "LE" và "28tech.com.vn"
 */
 
 #include <iostream>
